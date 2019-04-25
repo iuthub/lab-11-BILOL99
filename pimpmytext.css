@@ -21,7 +21,9 @@ legend {
 	font-family: "Impact", fantasy;
 	font-size: 120%;
 }
-
+/* fieldset{
+	width: 100px;
+} */
 textarea {
 	font-family: monospace;
 	font-size: 12pt;
